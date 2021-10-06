@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_id">default_id</string>
+    <string name="app_name">Manifest</string>
+    <string name="facebook_app_id">371661401088077</string>
+    <string name="fb_login_protocol_scheme">fb371661401088077</string>
+</resources>
