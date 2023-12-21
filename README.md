@@ -1,6 +1,6 @@
-# social_test
+# Mainfest
 
-A new Flutter project.
+A social media application made with flutter and firebase.
 
 ## Getting Started
 
